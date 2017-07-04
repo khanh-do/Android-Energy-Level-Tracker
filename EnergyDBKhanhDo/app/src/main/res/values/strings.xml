@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EnergyDBKhanhDo</string>
+    <string name="action_create_item">Create Item</string>
+    <string name="start_time">Start</string>
+    <string name="now_button">NOW</string>
+    <string name="save_button">SAVE</string>
+    <string name="time_textView">Time:</string>
+    <string name="summary_heading">Energy Summary</string>
+    <string name="number_of_entries">Number of Entries:</string>
+    <string name="energy_average">Energy Average:</string>
+</resources>
